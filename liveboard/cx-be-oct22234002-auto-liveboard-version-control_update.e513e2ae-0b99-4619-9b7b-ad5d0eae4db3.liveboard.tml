@@ -1,6 +1,6 @@
 guid: e513e2ae-0b99-4619-9b7b-ad5d0eae4db3
 liveboard:
-  name: cx-be-oct22234002-auto-liveboard-version-control
+  name: cx-be-oct22234002-auto-liveboard-version-control_update
   visualizations:
   - id: Viz_1
     answer:
@@ -40,9 +40,9 @@ liveboard:
           "y":
           - Total double sales
         client_state: ""
-        client_state_v2: "{\"version\": \"V4DOT2\",\"chartProperties\": {\"gridLines\": {},\"responsiveLayoutPreference\": \"USER_PREFERRED_ON\",\"chartSpecific\": {\"dataFieldArea\": \"column\"}},\"columnProperties\": [{\"columnId\": \"Productname\",\"columnProperty\": {}},{\"columnId\": \"Total double sales\",\"columnProperty\": {}},{\"columnId\": \"a7cd544a-f396-4110-b1d4-5f78bcec74b6\",\"columnProperty\": {}},{\"columnId\": \"eb2a5f3a-9c5f-4a06-995e-0ade49280d42\",\"columnProperty\": {}}],\"axisProperties\": [{\"id\": \"a4395f15-3ee4-4fe0-80cf-18413a84ce6d\",\"properties\": {\"axisType\": \"Y\",\"linkedColumns\": [\"Total double sales\"],\"isOpposite\": false}},{\"id\": \"ab78af56-3a89-4fa8-8c28-85e87c77e39d\",\"properties\": {\"axisType\": \"X\",\"linkedColumns\": [\"Productname\"]}}],\"systemSeriesColors\": [{\"serieName\": \"Total double sales\",\"color\": \"#2E75F0\"}]}"
+        client_state_v2: "{\"version\": \"V4DOT2\",\"chartProperties\": {\"gridLines\": {},\"responsiveLayoutPreference\": \"USER_PREFERRED_ON\",\"chartSpecific\": {\"dataFieldArea\": \"column\"}},\"columnProperties\": [{\"columnId\": \"Productname\",\"columnProperty\": {}},{\"columnId\": \"Total double sales\",\"columnProperty\": {}},{\"columnId\": \"c272f36b-aa67-456b-a19d-415000b7af72\",\"columnProperty\": {}},{\"columnId\": \"2d4b8e7d-79d9-4dea-80dd-cbf727e74283\",\"columnProperty\": {}}],\"axisProperties\": [{\"id\": \"a4395f15-3ee4-4fe0-80cf-18413a84ce6d\",\"properties\": {\"axisType\": \"Y\",\"linkedColumns\": [\"Total double sales\"],\"isOpposite\": false}},{\"id\": \"ab78af56-3a89-4fa8-8c28-85e87c77e39d\",\"properties\": {\"axisType\": \"X\",\"linkedColumns\": [\"Productname\"]}}],\"systemSeriesColors\": [{\"serieName\": \"Total double sales\",\"color\": \"#2E75F0\"}]}"
       display_mode: CHART_MODE
-    viz_guid: 52345e01-29f5-4e66-ad7f-fcddff1558c2
+    viz_guid: 745ac94f-620f-45a8-bd55-23b2fb998f93
   - id: Viz_2
     answer:
       name: Total decimal sales by Producttype
@@ -81,9 +81,9 @@ liveboard:
           "y":
           - Total decimal sales
         client_state: ""
-        client_state_v2: "{\"version\": \"V4DOT2\",\"chartProperties\": {\"gridLines\": {},\"responsiveLayoutPreference\": \"USER_PREFERRED_ON\",\"chartSpecific\": {\"dataFieldArea\": \"column\"}},\"columnProperties\": [{\"columnId\": \"Producttype\",\"columnProperty\": {}},{\"columnId\": \"Total decimal sales\",\"columnProperty\": {}},{\"columnId\": \"1b8f4631-3e3d-47f2-bf8f-99016a6dbd11\",\"columnProperty\": {}},{\"columnId\": \"e7030730-941f-4ef8-8267-16fe2fe651ae\",\"columnProperty\": {}}],\"axisProperties\": [{\"id\": \"ef8c560c-9642-4cc5-ab4d-6a9b7d5155ed\",\"properties\": {\"axisType\": \"Y\",\"linkedColumns\": [\"Total decimal sales\"],\"isOpposite\": false}},{\"id\": \"cdd74033-40f3-42aa-bd0d-827cb7e5400f\",\"properties\": {\"axisType\": \"X\",\"linkedColumns\": [\"Producttype\"]}}],\"systemSeriesColors\": [{\"serieName\": \"Total decimal sales\",\"color\": \"#2E75F0\"}]}"
+        client_state_v2: "{\"version\": \"V4DOT2\",\"chartProperties\": {\"gridLines\": {},\"responsiveLayoutPreference\": \"USER_PREFERRED_ON\",\"chartSpecific\": {\"dataFieldArea\": \"column\"}},\"columnProperties\": [{\"columnId\": \"Producttype\",\"columnProperty\": {}},{\"columnId\": \"Total decimal sales\",\"columnProperty\": {}},{\"columnId\": \"72326779-4cd4-48f3-8b23-516ba3df9833\",\"columnProperty\": {}},{\"columnId\": \"6b517267-5c3f-4f61-be89-88bbb980b942\",\"columnProperty\": {}}],\"axisProperties\": [{\"id\": \"ef8c560c-9642-4cc5-ab4d-6a9b7d5155ed\",\"properties\": {\"axisType\": \"Y\",\"linkedColumns\": [\"Total decimal sales\"],\"isOpposite\": false}},{\"id\": \"cdd74033-40f3-42aa-bd0d-827cb7e5400f\",\"properties\": {\"axisType\": \"X\",\"linkedColumns\": [\"Producttype\"]}}],\"systemSeriesColors\": [{\"serieName\": \"Total decimal sales\",\"color\": \"#2E75F0\"}]}"
       display_mode: CHART_MODE
-    viz_guid: fa4349d7-40cc-4c5a-bb2f-f4a952811e23
+    viz_guid: 5b2e4e5c-14ca-4449-9de9-ff4031e4b6b3
   layout:
     tiles:
     - visualization_id: Viz_1
